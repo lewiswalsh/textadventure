@@ -1,6 +1,6 @@
-## textadventure
+# textadventure
 A simple text adventure game in Node JS
 
-# Usage
+## Usage
 
 To start the game: `node game.js`
